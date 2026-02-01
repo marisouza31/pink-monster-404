@@ -1,22 +1,19 @@
 # 👾 Pinky Error 404 - Modern Mascot Design
+<div align="center">
+  <img width="500" src="https://github.com/marisouza31/pink-monster-404/blob/main/imagem-monster.png">
+</div>
 
 Uma página de erro 404 minimalista, moderna e com foco em UI/UX, apresentando um mascote 3D peludinho em tons de rosa.
 
 ##
-<div align="center">
-  
-  <h4>Layout:</h4>
-  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/layout.png">
-</div>
-
 > [!IMPORTANT]
 > O layout foi inspirado em conceitos de mascotes 3D peludinhos, substituindo o tradicional erro estático por uma animação de vídeo dinâmica.
 
 ##
 <div align="center">
-<h4>Tecnologias utilizadas:</h4>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" /> 
+  
+  <h4>Layout final:</h4>
+  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/layout.png">
 </div>
   
 <div align="center">
