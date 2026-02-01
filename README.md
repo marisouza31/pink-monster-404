@@ -11,9 +11,8 @@ Uma página de erro 404 minimalista, moderna e com foco em UI/UX, apresentando u
 
 ##
 <div align="center">
-  
   <h4>Layout final:</h4>
-  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/layout.png">
+  <video width="700" autoplay loop muted playsinline src="LINK_DO_SEU_VIDEO_AQUI.mp4"></video>
 </div>
   
 <div align="center">
