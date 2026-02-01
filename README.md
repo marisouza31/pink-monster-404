@@ -2,11 +2,11 @@
 
 Uma página de erro 404 minimalista, moderna e com foco em UI/UX, apresentando um mascote 3D peludinho em tons de rosa.
 
-## Preview
+##
 <div align="center">
   
   <h4>Layout:</h4>
-  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/wireframe/imagem.png">
+  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/layout.png">
 </div>
 
 > [!IMPORTANT]
