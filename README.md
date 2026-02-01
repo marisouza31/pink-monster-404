@@ -1,2 +1,33 @@
-# pink-monster-404
-Página web que envolve um monstrinho rosa peludo e um design moderno de erro 404.
+# 👾 Pinky Error 404 - Modern Mascot Design
+
+Uma página de erro 404 minimalista, moderna e com foco em UI/UX, apresentando um mascote 3D peludinho em tons de rosa.
+
+## Preview
+<div align="center">
+  
+  <h4>Layout:</h4>
+  <img width="700" src="https://github.com/marisouza31/pink-monster-404/blob/main/wireframe/imagem.png">
+</div>
+
+> [!IMPORTANT]
+> O layout foi inspirado em conceitos de mascotes 3D peludinhos, substituindo o tradicional erro estático por uma animação de vídeo dinâmica.
+
+##
+<div align="center">
+<h4>Tecnologias utilizadas:</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" /> 
+</div>
+  
+<div align="center">
+  
+  <h4>Contatos:</h4>
+  
+</div>
+
+Obrigada por visitar o meu repositório. Caso queira se conectar comigo, estou disponível através do e-mail e LinkedIn:
+
+Mariana Ocireu  
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/)  
+[![Gmail](https://img.shields.io/badge/Gmail-C71585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaocireu@gmail.com)
