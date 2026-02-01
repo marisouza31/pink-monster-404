@@ -12,7 +12,7 @@ Uma página de erro 404 minimalista, moderna e com foco em UI/UX, apresentando u
 ##
 <div align="center">
   <h4>Layout final:</h4>
-  <video width="700" autoplay loop muted playsinline src="LINK_DO_SEU_VIDEO_AQUI.mp4"></video>
+<img src="assets/monster-gif.gif" alt="Demonstração do Layout" width="500"/><br>
 </div>
   
 <div align="center">
